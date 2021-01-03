@@ -13,4 +13,4 @@ let mes1 = randomSelection(message.yourSign);
 let mes2 = randomSelection(message.randomMessage);
 let mes3 = randomSelection(message.youMust);
 
-console.log(`Ваш знак - ${mes1}. ${mes2}. Вы должны: ${mes3}.`);
+console.log(` Ваш знак - ${mes1}. \n ${mes2}. \n Вы должны: ${mes3}.`);
